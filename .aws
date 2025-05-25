@@ -1,3 +1,15 @@
 [default]
 aws_access_key_id = dfghjkdtykdfghjkd
 aws_secret_access_key = dfghjk456789FGHJK45678$%^&*FGHJRTYUkuydgfkuyf
+
+[dev]
+aws_access_key_id = kdjfhskjfhsdkfjhsdfkjdshfksjdhf
+aws_secret_access_key = #$%^&*iujhgfcvBNJKO(I*UYTRE$%^&8uytfrdgHJKLOIUYTR
+
+[qa]
+aws_access_key_id = $E%R^T&GIHUyvghcvhbkJNLJTYUYG
+aws_secret_access_key = DRYFTGIHOUgytcfvyuhiHUY^%^&R^*T&(Y*)UoiyftucgtvjhbkjlnKJLTYD%
+
+[prd]
+aws_access_key_id = DFTHGJKLKGHgryutiyHJGB
+aws_secret_access_key = $%^&T*YUOIgfyjhgjgkhlBJVTDRE%R^&T*YT&ru6tyfjgkhlJFTDYE%^R&%*TYIGFJ
